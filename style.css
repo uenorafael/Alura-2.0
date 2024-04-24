@@ -1,0 +1,83 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+
+.retalho{
+    background-color: black;
+    color: gray;
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
+}
+
+.retalho-imagem{
+    width: 60%;
+}
+
+.retalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+.xiraozin-imagem{
+    width: 30%;
+
+}
+.xitaozin{
+    background-image: linear-gradient(rgb(0,0,0),rgb(94,94,94));
+    color: rgb(255,255,255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.estudande-icone{
+    width: 35px;
+}
+.estudante-icon{
+    width: 35px;
+}
+.estudante-ico{
+    width: 35px;
+}
+.estudande-i{
+    width: 35px;
+}
+.estudande-ic{
+    width: 35px;
+}
+.estudante-imagem{
+    padding: 24px 0;
+}
+.estudante-imagem{
+    width: 120px;
+}
+    .xitaozin-texto-um{
+    font-size: large;
+    text-decoration: dotted;
+    }
+    .xitaozin-texto-dois{
+        font-size: large;
+        text-decoration: dotted;
+        text-shadow: 10cap;
+    }
+    .estudante-div2{
+        text-align: center;
+    }
+    .estudante-todos{
+        display: grid;
+        grid-template-columns: 20% 20% 20% 20% 20%;
+    }
+    .rodape{
+        background-color: black;
+        text-align: center;
+    }
+    .rodape-imagem{
+        height: 70px;
+        padding: 12px 0;
+        text-align: center;
+    }
